@@ -2,6 +2,8 @@
 
 API for buildings and locations at Hamilton College.
 
+Hello World
+
 <!-- ## Table of Contents
 
 - [Installation](#installation)
